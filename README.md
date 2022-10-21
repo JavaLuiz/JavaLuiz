@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JavaLuiz
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Javascript
+
 
 
 <!---
